@@ -9,12 +9,6 @@
 
 Your boss has asked to you look over the codebase of a full-stack JavaScript application. The front-end is written in JavaScript using no frameworks, the back-end uses an Express server and a MongoDB database. Your task is to make yourself familiar with the codebase.
 
-The application includes a README.md with instructions on running the application.
-
-![Overview of the tech stack and tooling with commands](images/tech_stack_with_commands.png)
-
-*Overview of the tech stack and tooling with commands*
-
 ## MVP
 
 ### Task
