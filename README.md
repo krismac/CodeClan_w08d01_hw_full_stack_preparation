@@ -18,9 +18,7 @@ The application includes a README.md with instructions on running the applicatio
 ## MVP
 
 ### Task
-
-Draw a diagram showing the dataflow through the application starting with a form submission, ending with the re-rendering of the page. This will involve a multi-direction data-flow with the client posting data to the server and the server sending data back to the client with the response. Detail the client, server and database in the diagram and include the names of the files involved in the process.
-
+[Diagram showing the dataflow](https://github.com/krismac/CodeClan_w08d01_hw_full_stack_preparation/blob/master/MongoDB%20-%20Games%20Hub%20-%20Homework.pdf) 
 
 
 ### Questions
