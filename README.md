@@ -12,7 +12,7 @@ Your boss has asked to you look over the codebase of a full-stack JavaScript app
 ## MVP
 
 ### Task
-[Diagram showing the dataflow](https://github.com/krismac/CodeClan_w08d01_hw_full_stack_preparation/blob/master/MongoDB%20-%20Games%20Hub%20-%20Homework.pdf) 
+![Diagram showing the dataflow](https://github.com/krismac/CodeClan_w08d01_hw_full_stack_preparation/blob/master/Screenshot%202018-10-30%20at%2009.30.28.png) 
 
 
 ### Questions
